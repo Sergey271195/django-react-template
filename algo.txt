@@ -76,4 +76,13 @@ Implementing React
 19. add .gitignore file 
     //you don't need all those node-modules in you repository
     //git init
-    
+    //git add .
+    //git commit -m "firstcommit"
+
+20. Go to guithab abd create new repository
+    //git remote add origin
+    //git branch -M main
+    //git push -u origin main
+
+21. to quickly start project 
+    //git clone https://github.com/Sergey271195/django-react-template.git
